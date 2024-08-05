@@ -1,0 +1,70 @@
+/* container {
+    padding:30px 0%;
+} */
+.Search {
+    width:50%;
+    margin-inline-start: 20%;
+}
+
+table th{
+    text-align: start;
+    justify-content: flex-start;
+    margin-left: 20%;
+}
+
+thead {
+    margin-left: 10%;
+}
+
+table {
+    justify-content: space-between;
+    text-align: start;
+    margin: 10px 0px 0px 20%;
+} 
+
+table-head {
+    margin-left: 100vw;
+}
+table tr th, table tr td{
+    padding: 10px 30px 0px 20px;
+}
+
+.footer-button {
+    margin-left: 20%;
+    height: 30px;
+    width: 200px;
+    color: white;
+    background-color:rgb(219, 78, 101);
+    border-style: none;
+    border-radius: 30px;
+}
+
+.next-button {
+    background-color: rgb(17, 99, 251);
+    color: white;
+    height:30px;   
+    width: 30px;
+    border-radius: 50px;
+    border-style: none;
+    margin-left: 30px;
+}
+
+.prev-button {
+    background-color: rgb(17, 99, 251);
+    color: white;
+    height:30px;   
+    width: 30px;
+    border-radius: 50px;
+    border-style: none;
+    margin-left: 30px;
+}
+
+.checkbox {
+   margin-left: 0%;
+    justify-content: flex-start;
+}
+/* .table-row {
+    justify-content: space-evenly;
+    text-align: start;
+} */
+
